@@ -1,0 +1,21 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My personal blog</title>
+</head>
+<body>
+    Hey, I'm Samuel.
+
+I'm a medical student in peril.
+
+Created a blog and all.
+
+See you when i see you..
+<button>learn more about me</button>
+</body>
+</html>
+
+
+ 
